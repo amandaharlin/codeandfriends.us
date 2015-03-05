@@ -1,6 +1,6 @@
 # codeandfriends.us
 
-free video training on programming concepts, language syntax, and code tutorials. answering high-level questions on the 'why's of programming.
+free video training on programming concepts, language syntax, and code tutorials. answering questions on the 'why's of programming.
 
 future covered topics:
 
