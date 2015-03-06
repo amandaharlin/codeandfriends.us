@@ -73,3 +73,5 @@ closures
 compilers  
 scope -- global, local, this  
 'Differences between == and === in JS'  
+'What is middleware?'
+'What is an endpoint?'
