@@ -4,6 +4,8 @@ free video training on programming concepts, language syntax, and code tutorials
 
 future covered topics:
 
+How do I contribute to Open Source Software?
+How to read a README
 Java  
 Sling  
 Jack Rabbit   
