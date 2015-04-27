@@ -77,3 +77,4 @@ scope -- global, local, this
 'Differences between == and === in JS'  
 'What is middleware?'
 'What is an endpoint?'
+how to ask a dev questions (etiquette irl & url) 
